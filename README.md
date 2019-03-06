@@ -9,7 +9,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 
 
-If you think that these can be improved in anyway, please do suggest.
+#If you think that these can be improved in anyway, please do suggest.
 
 
 ## 🚀 Introduction
